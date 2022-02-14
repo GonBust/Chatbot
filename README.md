@@ -1,2 +1,2 @@
 # Chatbot
-Discord
+Harry Potter sorting hat
